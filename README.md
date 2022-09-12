@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shzrif
 - 👀 I’m interested in explore new things
-- 🌱 I’m currently learning basic of programming
-- 💞️ I’m looking to collaborate on learning to code together
-- 📫 How to reach me @s.h.x.r.f (IG)
+- 🌱 I’m currently learning on basic of programming
+- 💻 I'm currently participating in a bootcamp
+- 📫 How to reach me @sshrrif(IG)
 
 <!---
 shzrif/shzrif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
