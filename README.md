@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @shzrif
+- 👋 Sharif F, Undergrad'22
 - 👀 I’m interested in explore new things
-- 🌱 I’m currently learning on basic of programming
-- 💻 I'm currently participating in a bootcamp
-- 📫 How to reach me @sshrrif(IG)
+- 💻 I’m currently learning on basic of programming (C, C++, Python, Javascript, and more.)
+- 📫 How to reach me @shrfmasyhur(IG)
 
 <!---
 shzrif/shzrif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
